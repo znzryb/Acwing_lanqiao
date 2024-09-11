@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P10449_95_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P10449_95_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P10449_95_-Debug-06ffd25833b1f0bcbbd8.json",
+					"name" : "P10449_95_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Acwing_lanqiao/\u7b2c\u4e00\u8bb2 \u9012\u5f52\u4e0e\u9012\u63a8/P10449_95_\u8d39\u89e3\u7684\u5f00\u5173/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Acwing_lanqiao/\u7b2c\u4e00\u8bb2 \u9012\u5f52\u4e0e\u9012\u63a8/P10449_95_\u8d39\u89e3\u7684\u5f00\u5173"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
